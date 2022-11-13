@@ -1,9 +1,10 @@
-module github.com/ewohltman/discordgo-mock
+module github.com/shme7ev/discordgo-mock
 
-go 1.19
+go 1.18
 
 require (
 	github.com/bwmarrin/discordgo v0.26.1
+	github.com/ewohltman/discordgo-mock v0.0.8
 	github.com/gorilla/mux v1.8.0
 )
 
