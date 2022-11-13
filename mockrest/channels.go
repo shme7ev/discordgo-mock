@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ewohltman/discordgo-mock/mockconstants"
+	"github.com/shme7ev/discordgo-mock/mockconstants"
 
 	"net/http"
 
